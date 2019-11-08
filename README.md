@@ -1,2 +1,2 @@
 # jEdit_S7
-jEdit: Edit-Mode und Erweiterung für die Plugins Xinsert und Ctags
+jEdit: Siemens Step 7 Edit-Mode und passende Erweiterung für die Plugins Xinsert und Ctags.
