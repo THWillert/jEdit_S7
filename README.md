@@ -3,7 +3,7 @@
 
 ## Übersicht
 
-Siemens Step 7 Edit-Mode und passende Erweiterung für die Plugins Xinsert und Ctags.
+Siemens Step 7 Edit-Mode-AWL und passende Erweiterung für die Plugins Xinsert und Ctags.
 
 ![jEdit_S7](/images/jEdit_S7.png)
 
