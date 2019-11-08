@@ -1,0 +1,3 @@
+--langdef=S7
+--langmap=S7:.s7.S7.AWL.awl
+--regex-S7=/^[ \t]*TITLE[ \t]+=(.*?)/\1/Title/i
