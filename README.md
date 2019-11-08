@@ -10,17 +10,33 @@ Siemens Step 7 Edit-Mode-AWL und passende Erweiterung für die Plugins Xinsert u
 
 ### Voraussetzungen
 
+**Folgende jEdit-Plugins:**
+- XInsert
+- SideKick
+- CtagsSideKick
 
-### Installation
+**Und zusätzlich:**
+- [Ctags](http://ctags.sourceforge.net/)
 
+### Installation (Windows)
+
+#### Ctags
+
+Das Programm selbst in:
+
+	%ProgramFiles%\ctags\
+	
+Die ctags.cnf (evtl. in schon vorhande Datei kopieren) in:
+
+	%ProgramFiles%\jEdit\ctags.cnf
+	
 
 ### Anpassungen
 
- 
-## Diskussion / Vorschläge
-
 
 ## ToDo
+
+- [ ] README.md kompletieren
 
 
 ## Author
