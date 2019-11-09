@@ -22,14 +22,17 @@ Siemens Step 7 Edit-Mode-AWL und passende Erweiterung für die Plugins Xinsert u
 
 #### Ctags
 
-Das Programm selbst in:
+Das Programm selbst in installieren:
 
-	%ProgramFiles%\ctags\
-	
-Die ctags.cnf (evtl. in schon vorhande Datei kopieren) in:
+`%ProgramFiles%\ctags\`
 
-	%ProgramFiles%\jEdit\ctags.cnf
-	
+Die ctags.cnf (evtl. mit schon vorhander Datei kompinieren) nach kopieren:
+
+`%ProgramFiles%\jEdit\ctags.cnf`
+
+Im jEdit-Plugin "CtagsSideKick" den Pfad zu Ctags einstellen - Angabe inklusive *.exe!
+
+![jEdit_S7](/images/CtagsSideKick.png)
 
 ### Anpassungen
 
