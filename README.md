@@ -26,7 +26,13 @@ Das Programm selbst in installieren:
 
 `%ProgramFiles%\ctags\`
 
-Die ctags.cnf (evtl. mit schon vorhander Datei kompinieren) nach kopieren:
+Die ctags.cnf evtl. mit schon vorhander Datei kombinieren:
+```
+--langdef=S7
+--langmap=S7:.s7.S7.AWL.awl
+--regex-S7=/^[ \t]*TITLE[ \t]+=(.*?)/\1/Title/i
+```
+oder nach kopieren:
 
 `%ProgramFiles%\jEdit\ctags.cnf`
 
