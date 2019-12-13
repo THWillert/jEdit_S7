@@ -8,7 +8,7 @@ Siemens Step 7 Edit-Mode-AWL und passende Erweiterung für die Plugins Xinsert u
 ![jEdit_S7](/images/jEdit_S7.png)
 
 
-### Voraussetzungen
+## Voraussetzungen
 
 **Folgende jEdit-Plugins:**
 - XInsert
@@ -18,9 +18,9 @@ Siemens Step 7 Edit-Mode-AWL und passende Erweiterung für die Plugins Xinsert u
 **Und zusätzlich:**
 - [Ctags](http://ctags.sourceforge.net/)
 
-### Installation (Windows)
+##  Installation (Windows)
 
-#### Ctags
+### Ctags
 
 Das Programm selbst in installieren:
 
@@ -40,8 +40,8 @@ Im jEdit-Plugin "CtagsSideKick" den Pfad zu Ctags einstellen - Angabe inklusive 
 
 ![jEdit_S7](/images/CtagsSideKick.png)
 
-### Anpassungen
-
+## Anpassungen
+...
 
 ## ToDo
 
