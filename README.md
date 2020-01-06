@@ -16,7 +16,8 @@ Siemens Step 7 Edit-Mode-AWL und passende Erweiterung für die Plugins Xinsert u
 - CtagsSideKick
 
 **Und zusätzlich:**
-- [Ctags](http://ctags.sourceforge.net/)
+- [Universal-Ctags](https://github.com/universal-ctags) (empfohlen)
+- oder [Ctags](http://ctags.sourceforge.net/) (nicht mehr weiterentwickelt - letzte Version von 2009)
 
 ##  Installation (Windows)
 
@@ -40,12 +41,10 @@ Im jEdit-Plugin "CtagsSideKick" den Pfad zu Ctags einstellen - Angabe inklusive 
 
 ![jEdit_S7](/images/CtagsSideKick.png)
 
-## Anpassungen
-...
 
 ## ToDo
 
-- [ ] README.md kompletieren
+...
 
 
 ## Author
