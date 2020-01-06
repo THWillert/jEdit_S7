@@ -44,7 +44,7 @@ Im jEdit-Plugin "CtagsSideKick" den Pfad zu Ctags einstellen - Angabe inklusive 
 
 ## ToDo
 
-...
+- [ ] Englische Übersetzung
 
 
 ## Author
